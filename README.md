@@ -277,3 +277,9 @@ Movie app api application encoded with NodeJS.
         </tr>
     </tbody>
 </table>
+
+<br/>
+<b>UNIT TEST </b><br/>
+- 02282101. Application Testing<br/>
+- 02282102. Testing for Movies EndPoints (GetAll&Post)<br/>
+- 02282103. Testing for Movies EndPoints (GetById&Put)
